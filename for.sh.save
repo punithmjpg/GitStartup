@@ -1,0 +1,6 @@
+for (( counter=30counter>0; counter-=5 ))
+do
+echo -n "$counter "
+done
+printf "\n"
+
